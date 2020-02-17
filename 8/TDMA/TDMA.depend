@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581847312 source:c:\users\soumy\downloads\dx-sera\numerical computation\8\tdma\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

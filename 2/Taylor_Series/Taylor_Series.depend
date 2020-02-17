@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581704456 source:c:\users\soumy\downloads\dx-sera\numerical computation\2\taylor_series\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581878251 source:c:\users\soumy\downloads\dx-sera\numerical computation\13\linear_regression\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

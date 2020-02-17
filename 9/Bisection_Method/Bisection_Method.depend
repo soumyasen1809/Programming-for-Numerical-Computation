@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581854339 source:c:\users\soumy\downloads\dx-sera\numerical computation\9\bisection_method\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

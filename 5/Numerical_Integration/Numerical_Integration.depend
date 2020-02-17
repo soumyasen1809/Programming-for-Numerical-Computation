@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581790520 source:c:\users\soumy\downloads\dx-sera\numerical computation\5\numerical_integration\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581859455 source:c:\users\soumy\downloads\dx-sera\numerical computation\10\newton_raphson_single_variable\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581841778 source:c:\users\soumy\downloads\dx-sera\numerical computation\7\gauss_siedel\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

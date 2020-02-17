@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581777348 source:c:\users\soumy\downloads\dx-sera\numerical computation\4\differentiation_single_variable\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

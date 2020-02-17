@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1581800928 source:c:\users\soumy\downloads\dx-sera\numerical computation\6\gauss_elimination\main.c
+	<stdio.h>
+	<omp.h>
+	<math.h>
+	<stdlib.h>
+

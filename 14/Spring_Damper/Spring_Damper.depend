@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1581958265 source:c:\users\soumy\downloads\dx-sera\numerical computation\14\spring_damper\main.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
